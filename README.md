@@ -1,4 +1,4 @@
-# PyTorch Project Boilerplate
+# PyTorch Project Starter Template
 Credit: https://uvadlc-notebooks.readthedocs.io/en/latest/tutorial_notebooks/guide2/Research_Projects.html
 
 
