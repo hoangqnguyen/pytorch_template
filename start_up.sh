@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Create the directory structure
-mkdir -p general layers experiments/task1 experiments/task2
+mkdir -p general modules experiments/task1 experiments/task2
 import="""import torch
 from torch import nn
-from torch.nn import functional as F
+import torch.nn.functional as F
 """
 # Create boilerplate code for the general folder
 echo "$import" > general/train.py
